@@ -1,5 +1,5 @@
-<H3>NAME:Dhivyapriya. R</H3>
-<H3>REGISTER NO:212222230032</H3>
+<H3>NAME:Vidhyasri.K </H3>
+<H3>REGISTER NO:212222230170</H3>
 <H3>EX.NO:7</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
